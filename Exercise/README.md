@@ -6,3 +6,4 @@ These problems were generated with the help of ChatGPT only for practice purpose
 | Problem No |     Title      | Design Pattern |
 | :--------- | :------------: | :------------: |
 | 01         | Logging System | **Singleton**  |
+| 02         | Shape Cloning  | **Prototype**  |
